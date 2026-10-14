@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "NOXIZ",
+    "slug": "noxiz-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "noxiz",
+    "splash": {
+      "backgroundColor": "#0b090b",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.noxiz.ai"
+    },
+    "android": {
+      "package": "com.noxiz.ai",
+      "adaptiveIcon": {
+        "backgroundColor": "#0b090b"
+      }
+    }
+  }
+}
